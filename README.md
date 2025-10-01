@@ -22,7 +22,7 @@ Can be extended to integrate with other NLP models.
 
 ## Installation and Setup
 
-###1. Clone the repository
+1. Clone the repository
 ```bash
 git clone https://github.com/kondurupriyanka/ML_Gradio_Sentiment_Analysis.git
 cd ML_Gradio_Sentiment_Analysis
